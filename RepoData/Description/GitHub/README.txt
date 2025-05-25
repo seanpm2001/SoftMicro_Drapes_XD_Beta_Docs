@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🟥️🟨️🟩️🟦️🪟️🇽.🇩📖️ The official documentation source repository for the SoftMicro Drapes XD Beta, a parody of the Microsoft Windows XP Beta (Windows Whistler)
